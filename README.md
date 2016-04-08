@@ -35,7 +35,6 @@ En el repositorio esta el contenido de la carpeta Assets del proyecto, esta es l
 * Sprites: contiene las imagenes o conjunto de imagenes que sirven para texturizar el juego.
 * SpritesPrueba: contiene las imagenes o conjunto de imagenes que sirven para texturizar el juego.
 
-![**](https://github.com/mpereirasalgado/Module-TutorialE/blob/master/openacademy/images/primera.png)
 
 
 ## El Código 
